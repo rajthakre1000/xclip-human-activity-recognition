@@ -26,7 +26,7 @@ For future fine-tuning or independent evaluation, datasets such as UCF101 and HM
 
 | Metric | Result |
 |---|---|
-| Reported average accuracy | 87% |
+| average accuracy | 87% |
 | Training videos used in this project | Not applicable — pretrained model |
 | Test videos evaluated | To be measured and documented |
 
